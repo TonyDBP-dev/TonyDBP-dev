@@ -1,18 +1,17 @@
 <!-- HEADER SECTION -->
 <div align="center">
 
-<!-- Add a retro banner GIF here -->
-<!-- Example: Dancing Text saying “Welcome to Tony’s GitHub” -->
-<!-- ![Welcome Banner](your_image_url_here) -->
+<!-- Retro banner -->
 <img src="https://web.archive.org/web/20090807140915/http://www.geocities.com/danimeko/WELCOME.gif" width="10000" height="50" alt="welcome retro gif" />
 
-# 🌐 **Tony's Totally Techy Page**
+# 🌐 **Tony’s GitHub Hideout**
 
-<!-- Add retro GIFs here (like old computer, spinning planet, etc.) -->
-<!-- Example: ![Old Computer](your_image_url_here) -->
+<!-- Retro GIF -->
+<img src="https://raw.githubusercontent.com/TonyDBP-dev/TonyDBP-dev/d5da42430bcc78f0b7f097d8dacb2c634bd757a8/ezgif-64bca25e978655.gif" width="200" />
 
-<p><strong>🚧 UNDER CONSTRUCTION 🚧</strong></p>
-<!-- Add an "under construction" GIF here -->
+---
+<!--Under constuction -->
+<img src="https://web.archive.org/web/20090729202514/http://www.geocities.com/wwsowl/constuction_bar.gif" width="10000"/>
 
 </div>
 
@@ -22,12 +21,12 @@
 ## 👾 About Me
 
 Hi, I'm Tony! Welcome to my **digital playground** 🧠💾  
-Here you'll find code, creativity, and a touch of chaos straight from the 90s netverse.
+Here you'll find code, creativity, and a touch of chaos.
 
 - 🏃‍♂️ Runner | 🎧 Music Addict | 💬 Deep Thinker
 - 💻 I code in: `JavaScript`, `C++`, `Java`, `Pascal`, `Assembly`, etc.
-- 🇦🇺 Dreaming of a peaceful, creative life in **Australia**
-- 🚀 I love solving problems, creating weird and useful things, and building projects with soul
+- 🌏 Based in 🇻🇪, dreaming of 🇦🇺.
+- 🚀 I love solving problems, creating weird and useful things, and building projects with purpose and soul.
 
 <!-- Add some 90s pixel art or personality GIFs here -->
 
