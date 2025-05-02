@@ -4,7 +4,7 @@
 <!-- Retro banner -->
 <img src="https://web.archive.org/web/20090807140915/http://www.geocities.com/danimeko/WELCOME.gif" width="10000" height="50" alt="welcome retro gif" />
 
-# 🌐 **Tony’s GitHub Hideout**
+# 🌐 **Tony’s GitHub Playground**
 
 <!-- Retro GIF -->
 <img src="https://raw.githubusercontent.com/TonyDBP-dev/TonyDBP-dev/d5da42430bcc78f0b7f097d8dacb2c634bd757a8/ezgif-64bca25e978655.gif" width="200" />
@@ -28,7 +28,8 @@ Here you'll find code, creativity, and a touch of chaos.
 - 🌏 Based in 🇻🇪, dreaming of 🇦🇺.
 - 🚀 I love solving problems, creating weird and useful things, and building projects with purpose and soul.
 
-<!-- Add some 90s pixel art or personality GIFs here -->
+<!-- GIF -->
+<img src="https://github.com/TonyDBP-dev/TonyDBP-dev/blob/01a33c8a36a9f6c76dc1e0b96643ab57bb05fa92/ezgif-343939d7d9d22f.gif" width="7000"/>
 
 ---
 
@@ -36,12 +37,12 @@ Here you'll find code, creativity, and a touch of chaos.
 ## 💾 Featured Projects
 
 <!-- For each project, use this format -->
-### 🛠️ Project Name
+<!-- ### 🛠️ Project Name
 Short description of what it does, why it's cool or fun.  
 Tech stack: `Java`, `Linked Lists`, `Console UI`  
 <!-- Add project-related GIF or image (retro computer, terminal window, pixel art) -->
 
-🔗 [Link to project repo](#)
+<!-- 🔗 [Link to project repo](#)
 
 ---
 
