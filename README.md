@@ -35,7 +35,7 @@ Here you'll find code, creativity, and a touch of chaos.
 
 <!-- PROJECTS SECTION -->
 ## 💾 Featured Projects
-
+<img src="https://github.com/TonyDBP-dev/TonyDBP-dev/blob/5c5f12a04c019d6e88e027043c055cfc55d80eb3/ezgif-13db90f74d8db8.gif" width="1000"/>
 <!-- For each project, use this format -->
 <!-- ### 🛠️ Project Name
 Short description of what it does, why it's cool or fun.  
@@ -73,7 +73,8 @@ Stuff I’m tinkering with or planning:
 
 <!-- CONTACT -->
 ## 📬 Contact
-
+<img src="https://github.com/TonyDBP-dev/TonyDBP-dev/blob/5c5f12a04c019d6e88e027043c055cfc55d80eb3/ezgif-13db90f74d8db8.gif" width="1000"/>
+<!--
 Let's connect like it's 1999:
 
 - 🌐 [Your Portfolio or Linktree]
